@@ -1,3 +1,3 @@
-module github.com/chengzhx76/bullshit
+module github.com/chengzhx76/go-bullshit-generater
 
 go 1.16
